@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using tyuiu.cources.programming.interfaces.Sprint2;
 
 namespace Tyuiu.FrezeTK.Sprint2.Task2.V21.Lib
 {
-    public class DataService
+    public class DataService: ISprint2Task2V21
     {
         public static bool CheckDotInShadedArea(int x, int y)
         {
