@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using tyuiu.cources.programming.interfaces.Sprint2;
 
 namespace Tyuiu.FrezeTK.Sprint2.Task5.V8.Lib
 {
-    public class DataService
+    public class DataService: ISprint2Task5V8
     {
         public static string FindPreviousDate(int m, int n)
         {
