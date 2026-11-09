@@ -1,8 +1,9 @@
 ﻿using System;
+using tyuiu.cources.programming.interfaces.Sprint2;
 
 namespace Tyuiu.FrezeTK.Sprint2.Task6.V14.Lib
 {
-    public class DataService
+    public class DataService: ISprint2Task6V14
     {
         public static string FindDayOfWeek(int d, int k)
         {
