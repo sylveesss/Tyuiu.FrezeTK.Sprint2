@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.FrezeTK.Sprint2.Task0.V8.Lib/Tyuiu.FrezeTK.Sprint2.Task0.V8.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint2.Task0.V8.Test/Tyuiu.FrezeTK.Sprint2.Task0.V8.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint2.Task0.V8/Tyuiu.FrezeTK.Sprint2.Task0.V8.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.FrezeTK.Sprint2.Task1.V11.Lib/Tyuiu.FrezeTK.Sprint2.Task1.V11.Lib.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint2.Task1.V11.Test/Tyuiu.FrezeTK.Sprint2.Task1.V11.Test.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint2.Task1.V11/Tyuiu.FrezeTK.Sprint2.Task1.V11.csproj" />
+  </Folder>
+</Solution>
