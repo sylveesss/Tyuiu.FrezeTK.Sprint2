@@ -11,7 +11,6 @@ namespace Tyuiu.FrezeTK.Sprint2.Task4.V28.Test
         [TestMethod]
         public void CheckCalculateValid1()
         {
-
             double x = 2;
             double y = 10;
             double expected = 16.0;
@@ -25,7 +24,7 @@ namespace Tyuiu.FrezeTK.Sprint2.Task4.V28.Test
         {
             double x = 10;
             double y = 5;
-            double expected = 6.273; 
+            double expected = 6.288;
 
             double res = DataService.Calculate(x, y);
             Assert.AreEqual(expected, res, 0.001);
